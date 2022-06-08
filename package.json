@@ -1,0 +1,25 @@
+{
+  "name": "hematology-inventory-control-nextjs",
+  "version": "1.0.0",
+  "description": "Inventory control for Hematology in Unicamp Clinical Hospital",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "example.com"
+  },
+  "author": "Saymon Felipe",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.1.1",
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
